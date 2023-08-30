@@ -18,13 +18,13 @@ Este es un resumen de documentacion en general sobre temas Fundamenta en formato
   <tbody>
     <tr>
       <td align="center" valign="top" width="30px">01</td>
-      <td align="left" valign="top" width="300px"><a href="https://github.com/josemek098dev/001-Docs-web-development/blob/master/01-Bases/00-GitGithub.md">Git-Github</a></td>
-      <td align="left" valign="top" width="500px">Control de versiones y colaboración</td>
+      <td align="left" valign="top" width="300px"><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/DATOS%20GENERALES%20-%20CYPE.md">Datos Generales</a></td>
+      <td align="left" valign="top" width="500px">Conceptos basicos</td>
     </tr>
     <tr>
       <td align="center" valign="top" >02</td>
-      <td align="left" valign="top" ><a href="./02-Fronted/01-HTML-5.md">Visual Code</a></td>
-      <td align="left" valign="top" >Editor de código</td>
+      <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/AUTOCADCOMANDS.md">AUTOCAD comandos</a></td>
+      <td align="left" valign="top" >Comandos utiles</td>
     </tr>
       </tbody>
 </table>
