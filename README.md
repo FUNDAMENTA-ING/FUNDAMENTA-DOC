@@ -10,7 +10,7 @@
 
 ### **Introducción**
 
-Este es un resumen de documentacion en general sobre temas de desarrollo web en formato md.
+Este es un resumen de documentacion en general sobre temas Fundamenta md.
 
 ### **Basic Tools**
 
