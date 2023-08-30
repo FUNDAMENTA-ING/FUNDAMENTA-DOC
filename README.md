@@ -1,6 +1,6 @@
 <div align="center">
 
-![Day 5](./02-Fronted/images/banners/fullstackbanner.jpg)
+![Day 5](./IMG/banner_fundamenta.PNG)
 
   <h1> FUNDAMENTA DOCUMENTACION  </h1>
   
