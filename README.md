@@ -10,7 +10,7 @@
 
 ### **Introducción**
 
-Este es un resumen de documentacion en general sobre temas Fundamenta md.
+Este es un resumen de documentacion en general sobre temas Fundamenta en formato md.
 
 ### **Basic Tools**
 
