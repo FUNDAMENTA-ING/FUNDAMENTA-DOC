@@ -1,8 +1,6 @@
 <div align="center">
 
 
-![Day 5](./images/banners/React_Banner.png)
-
   <h1> DATOS GENERALES CYPE</h1>
   
 
