@@ -39,38 +39,38 @@ Este es un resumen de documentacion en general sobre temas Fundamenta en formato
     </tr>
     <tr>
       <td align="center" valign="top" >02</td>
-      <td align="left" valign="top" ><a href="https://github.com/josemek098dev/001-Docs-web-development/blob/master/02-Fronted/02.1-CSS_SyntaxAndSelectors.md" title="Documentation">CSS 3</a></td>
-      <td align="left" valign="top" >Lenguaje de estilo para la web</td>
+      <td align="left" valign="top" ><a href="https://github.com/josemek098dev/001-Docs-web-development/blob/master/02-Fronted/02.1-CSS_SyntaxAndSelectors.md" title="Documentation">-</a></td>
+      <td align="left" valign="top" >-</td>
     </tr>
     <tr>
       <td align="center" valign="top" >03</td>
-      <td align="left" valign="top" ><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=kentcdodds" title="Documentation">Bootstrap 5</a></td>
-      <td align="left" valign="top" >Framework CSS para diseño web</td>
+      <td align="left" valign="top" ><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=kentcdodds" title="Documentation">-</a></td>
+      <td align="left" valign="top" >-</td>
     </tr>
     <tr>
       <td align="center" valign="top" >04</td>
-      <td align="left" valign="top" ><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=kentcdodds" title="Documentation">Figma (Web Design)</a></td>
-      <td align="left" valign="top" >Herramienta de diseño web</td>
+      <td align="left" valign="top" ><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=kentcdodds" title="Documentation">-</a></td>
+      <td align="left" valign="top" >-</td>
     </tr>
     <tr>
       <td align="center" valign="top" >05</td>
-      <td align="left" valign="top" ><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=kentcdodds" title="Documentation">Bash Command Line</a></td>
-      <td align="left" valign="top" >Interfaz de línea de comandos</td>
+      <td align="left" valign="top" ><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=kentcdodds" title="Documentation">-</a></td>
+      <td align="left" valign="top" >-</td>
     </tr>
     <tr>
       <td align="center" valign="top" >06</td>
-      <td align="left" valign="top" ><a href="https://github.com/josemek098dev/001-Docs-web-development/blob/master/02-Fronted/01-JavaScript.md" title="Documentation">Javascript ES6</a></td>
-      <td align="left" valign="top" >Lenguaje de programación para la web</td>
+      <td align="left" valign="top" ><a href="https://github.com/josemek098dev/001-Docs-web-development/blob/master/02-Fronted/01-JavaScript.md" title="Documentation">-</a></td>
+      <td align="left" valign="top" >-</td>
     </tr>
     <tr>
       <td align="center" valign="top" >07</td>
-      <td align="left" valign="top" ><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=kentcdodds" title="Documentation">jQuery</a></td>
-      <td align="left" valign="top" >Biblioteca de Javascript para la web</td>
+      <td align="left" valign="top" ><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=kentcdodds" title="Documentation">-</a></td>
+      <td align="left" valign="top" >-</td>
     </tr>
     <tr>
       <td align="center" valign="top" >08</td>
-      <td align="left" valign="top" ><a href="https://github.com/josemek098dev/001-Docs-web-development/blob/master/02%20-%20Fronted/08%20-%20ReactJs/801%20-%20React%20-%20Intro.md" title="Documentation">ReactJS</a></td>
-      <td align="left" valign="top" >Biblioteca de Javascript para UI</td>
+      <td align="left" valign="top" ><a href="https://github.com/josemek098dev/001-Docs-web-development/blob/master/02%20-%20Fronted/08%20-%20ReactJs/801%20-%20React%20-%20Intro.md" title="Documentation">-</a></td>
+      <td align="left" valign="top" >-</td>
     </tr>
       </tbody>
 </table>
