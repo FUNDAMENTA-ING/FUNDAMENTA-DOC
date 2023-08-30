@@ -18,7 +18,7 @@ Este es un resumen de documentacion en general sobre temas Fundamenta en formato
   <tbody>
     <tr>
       <td align="center" valign="top" width="30px">01</td>
-      <td align="left" valign="top" width="300px"><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/DATOS%20GENERALES%20-%20CYPE.md">Datos Generales</a></td>
+      <td align="left" valign="top" width="300px"><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/DATOS%20GENERALES%20-%20CYPE.md">Datos Generales CYPE</a></td>
       <td align="left" valign="top" width="500px">Conceptos basicos</td>
     </tr>
     <tr>
