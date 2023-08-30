@@ -2,9 +2,7 @@
 
 ![Day 5](./IMG/banner_fundamenta.PNG)
 
-  <h1> FUNDAMENTA DOCUMENTACION  </h1>
-  
-
+  <h1> FUNDAMENTA DOCUMENTACION  </h1>  
   <sub>Author:
   <a href="" target="_blank">Fundamenta Ing.</a><br>
   <small> April, 2023</small>
