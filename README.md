@@ -23,7 +23,7 @@ Este es un resumen de documentacion en general sobre temas Fundamenta en formato
     </tr>
     <tr>
       <td align="center" valign="top" >02</td>
-      <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/AUTOCADCOMANDS.md">AUTOCAD comandos</a></td>
+      <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/AUTOCADCOMANDS.md">Comandos AUTOCAD</a></td>
       <td align="left" valign="top" >Comandos utiles</td>
     </tr>
       </tbody>
