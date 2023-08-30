@@ -1,5 +1,20 @@
-# FUNDAMENTA-INGC
-Repositorio de fundamenta donde guardo archivos y comentarios utiles
+<div align="center">
+
+
+![Day 5](./images/banners/React_Banner.png)
+
+  <h1> DATOS GENERALES </h1>
+  
+
+  <sub>Author:
+  <a href="" target="_blank">Fundamenta Ing.</a><br>
+  <small> April, 2023</small>
+  </sub>
+</div>
+
+[<< Home](https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/README.md) | [Seccion 2 >>](https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/README.md)
+
+
 
 # CRITERIOS CYPE
 
