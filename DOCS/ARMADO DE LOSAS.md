@@ -18,4 +18,5 @@
 14. En caso de no pode llega a las longitudes de barra estandar usar longitudes lo mas redondas posibles en 100 200 300 400 500 600 700 u 150 250 350 450  u 155 165 160 ( en 0 5) evitar medidas tipo 177
 15. La separacion maxima  de las barras en armado de losas en general es el espesor  por 2 menos el reubrimiento  ej una losa de 15 tiene una separacion maxima de 13 , el armado base engeneal es bueno porq sirve de sopote para las otras barras..
 16. A veces no habra nada que hacerle y  nose podra poner la longitud y ancho ideal que queramos
+    pp
     
