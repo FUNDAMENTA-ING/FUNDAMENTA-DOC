@@ -9,8 +9,12 @@
 4. Usar Medidas de barra tipicas donde sea posible, colocar  empalmes intercalados donde haga falta, preferentemente deja una barra de 12m y cortar la otra barra, no usar dos  barras de 7m para llegar a 14m 
 
 ### CRITERIOS DE ARMADO BASE
-1. Ponemos un armado base segun lo que pide el cype o minimo: 2*REDONDEAR.MAS(ESPESOR DE LA LOSA - "2.5" RECUBRIMIENTO )--- Ej: Losa de 15cm tiene 13cm de altura efectiva, la separacion minima segun espeso seria 26cm
+1. Ponemos un armado base segun lo que pide el cype o minimo: 2*REDONDEAR.MAS(ESPESOR DE LA LOSA - "2.5" RECUBRIMIENTO )--- Ej: Losa de 15cm tiene 13cm de altura efectiva, la separacion minima segun espeso seria 26cm 
 2. Cubrimos donde haga falta hasta llegar a cubrir con una cuantia minima de 0.12 donde no haya nada, donde haya +0.00 PONEMOS REFUERZO TAL QUE CUBRA MINIMO 0.14%
+
+### CRITERIOS DE REFUERZO
+
+1. Podemos incluso usar refuerzos cada 4 veces 2*REDONDEAR.MAS(ESPESOR DE LA LOSA - "2.5" RECUBRIMIENTO ) ej en una losa de 15 fi 8 c/52cn
 
 
 #### BASICO
