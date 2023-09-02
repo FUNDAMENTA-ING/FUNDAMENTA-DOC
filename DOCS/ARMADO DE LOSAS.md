@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  <h1> LOSAS CYPE CYPE</h1>
+  <h1> LOSAS CYPE</h1>
   
 
   <sub>Author:
