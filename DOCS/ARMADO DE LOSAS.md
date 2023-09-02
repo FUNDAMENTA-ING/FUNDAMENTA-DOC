@@ -16,6 +16,9 @@
 
 1. Podemos incluso usar refuerzos cada 4 veces 2*REDONDEAR.MAS(ESPESOR DE LA LOSA - "2.5" RECUBRIMIENTO ) ej en una losa de 15 fi 8 c/52cn
 
+  ![LOSAS1](FUNDAMENTA-DOC/IMG/LOSAS/LOSAS1.jpg)
+
+
 
 #### BASICO
 5. Vamos al la planilla - Esfuerzos ( ponemos un armado y un valor en esfuerzos As nec tiene q ser apoximadamente igual a Asasumtotal)-buscamos q los refuerzos sean de la misma separacion q la rmadura base para que sea una barra mas en el medio de la base
