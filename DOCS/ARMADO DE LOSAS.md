@@ -16,7 +16,7 @@
 
 1. Podemos incluso usar refuerzos cada 4 veces 2*REDONDEAR.MAS(ESPESOR DE LA LOSA - "2.5" RECUBRIMIENTO ) ej en una losa de 15 fi 8 c/52cn
 
-![LOSAS1](./FUNDAMENTA-DOC/IMG/LOSAS/LOSAS1.jpg)
+![LOSAS1](./IMG/LOSAS/LOSAS1.jpg)
 
 
 
