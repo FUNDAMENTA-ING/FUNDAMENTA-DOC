@@ -1,3 +1,7 @@
+
+
+[<< Home](https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/README.md) | [Seccion 2 >>](https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/README.md)
+
 ## LOSAS CYPE
 
 ### ARMADO INFERIOR X e Y 
