@@ -1,8 +1,16 @@
+<div align="center">
 
+
+  <h1> LOSAS CYPE CYPE</h1>
+  
+
+  <sub>Author:
+  <a href="" target="_blank">Fundamenta Ing.</a><br>
+  <small> April, 2023</small>
+  </sub>
+</div>
 
 [<< Home](https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/README.md) | [Seccion 2 >>](https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/README.md)
-
-## LOSAS CYPE
 
 ### ARMADO INFERIOR X e Y 
 
