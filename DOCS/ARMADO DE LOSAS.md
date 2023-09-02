@@ -17,7 +17,7 @@
 1. Podemos incluso usar refuerzos cada 4 veces 2*REDONDEAR.MAS(ESPESOR DE LA LOSA - "2.5" RECUBRIMIENTO ) ej en una losa de 15 fi 8 c/52cn
 2. Nos alejamos un poco a la hora de ver la isolinea para poner refuerzos.. reforzamos donde la banda es extendida y restamos importancia a los esfuerzos muy concetrados  a la hora de poner bandas de distribucion
 
-![LOSAS1](../IMG/LOSAS/LOSAS1.jpg)
+<img src="../IMG/LOSAS/LOSAS1.jpg" alt="LOSAS1" width="200"/>
 
 
 
