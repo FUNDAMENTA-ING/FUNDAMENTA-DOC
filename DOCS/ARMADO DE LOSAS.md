@@ -34,7 +34,7 @@
   <img src="../IMG/LOSAS/LOSAS1.jpg" alt="LOSAS1" width="700" />
 </p>
 
-
+3. Cuando tenemos barras que se cotan en un hueco contamos la cantidad de seccion que se corta y la ponemos en la otra direccion como refuerzo puntual
 
 #### BASICO
 5. Vamos al la planilla - Esfuerzos ( ponemos un armado y un valor en esfuerzos As nec tiene q ser apoximadamente igual a Asasumtotal)-buscamos q los refuerzos sean de la misma separacion q la rmadura base para que sea una barra mas en el medio de la base
