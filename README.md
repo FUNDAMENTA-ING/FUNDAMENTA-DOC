@@ -29,7 +29,7 @@ Este es un resumen de documentacion en general sobre temas Fundamenta en formato
       </tbody>
 </table>
 
-### **Armado de elementos estructurales**  
+### **Armado de elementos estructurales CYPECAD**  
   <table >
   <tbody >
     <tr>
@@ -73,6 +73,32 @@ Este es un resumen de documentacion en general sobre temas Fundamenta en formato
       <td align="left" valign="top" >-</td>
     </tr>
       </tbody>
+</table>
+
+### **Armado de elementos estructurales StruBIM Steel**  
+  <table >
+  <tbody >
+    <tr>
+      <td align="center" valign="top" width="30px">01</td>
+      <td align="left" valign="top" width="300px"><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/ARMADO%20DE%20BASES.md" title="Documentation">Conceptos y bases</a></td>
+      <td align="left" valign="top" width="500px">Conceptos y bases</td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" >02</td>
+      <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/ARMADO%20DE%20COLUMNAS.md" title="Documentation">Materiales tipo</a></td>
+      <td align="left" valign="top" >Perfiles, placas y soldaduras tipo</td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" >03</td>
+      <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/ARMADO%20DE%20LOSAS.md" title="Documentation">Criterios de armado de uniones</a></td>
+      <td align="left" valign="top" >Criterios de armado de uniones</td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" >04</td>
+      <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/ARMADO%20DE%20VIGAS.md" title="Documentation">Generacion de documentacion</a></td>
+      <td align="left" valign="top" >-</td>
+    </tr>    
+  </tbody>
 </table>
   
 ### **Otros**                   
