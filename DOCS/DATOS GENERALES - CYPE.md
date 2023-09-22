@@ -18,7 +18,9 @@
 
 ### DATOS GENERALES
 Usar archivos bases de cype segun corresponda ver josemek098f@gmail.com Cliente 
-PARA OBRAS CON HORMIGON IN SITU USAR H13 O H17 ... en san miguel de tucuman se puede llegar a usar H21
+- PARA OBRAS CON HORMIGON IN SITU USAR H17 (o H13)
+- OBRAS EN CIUDADES SMT YB yb y Casas H21
+- EDIFICIOS Y HORMIGON ELEBARADO EN PLANTA H30 o mas
 
 ### CARGAS
 - LAS CARGAS EN CYPE SIEMPRE LAS PONEMOS COMO PESO PROPIO!!!
