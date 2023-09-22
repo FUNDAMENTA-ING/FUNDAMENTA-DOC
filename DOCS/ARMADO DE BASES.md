@@ -12,3 +12,6 @@
  - Usamos la planilla de bases aisladas verificamos la tension de contacto
  - se agrupan bases con cargas similares
  - EN CASAS: las bases de menos de 4 toneladas se hacen como bloques
+
+### BASES CONVINADAS
+ - Verificar las alturas maximas de las bases como  bases ailadas y como convinadas y elegir el mayor valor de las 3 tener encuenta q el tamaño del fuste influye en la altura de calculo
