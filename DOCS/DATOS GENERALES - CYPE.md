@@ -17,7 +17,10 @@
 
 
 ### DATOS GENERALES
+
 Usar archivos bases de cype segun corresponda ver josemek098f@gmail.com Cliente 
+
+### HORMIGON
 - PARA OBRAS CON HORMIGON IN SITU USAR H17 (o H13)
 - OBRAS EN CIUDADES SMT YB yb y Casas H21
 - EDIFICIOS Y HORMIGON ELEBARADO EN PLANTA H30 o mas
