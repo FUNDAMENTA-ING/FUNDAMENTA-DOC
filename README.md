@@ -75,6 +75,32 @@ Este es un resumen de documentacion en general sobre temas Fundamenta en formato
       </tbody>
 </table>
 
+### **Armado de elementos estructurales CYPE 3D**  
+  <table >
+  <tbody >
+    <tr>
+      <td align="center" valign="top" width="30px">01</td>
+      <td align="left" valign="top" width="300px"><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/ARMADO%20DE%20BASES.md" title="Documentation">Conceptos y bases</a></td>
+      <td align="left" valign="top" width="500px">-</td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" >02</td>
+      <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/ARMADO%20DE%20COLUMNAS.md" title="Documentation">-</a></td>
+      <td align="left" valign="top" >-</td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" >03</td>
+      <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/ARMADO%20DE%20LOSAS.md" title="Documentation">-</a></td>
+      <td align="left" valign="top" >-</td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" >04</td>
+      <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/ARMADO%20DE%20VIGAS.md" title="Documentation">-</a></td>
+      <td align="left" valign="top" >-</td>
+    </tr>    
+  </tbody>
+</table>
+
 ### **Armado de elementos estructurales StruBIM Steel**  
   <table >
   <tbody >
