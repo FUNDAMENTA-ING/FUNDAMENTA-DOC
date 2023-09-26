@@ -42,11 +42,11 @@
 
 ### VERIFICAR
 
- [] Carga sobre elemento principal  
- [ ] Espesores de elementos  
- [] Largo de las barras
- [] Espesores de soldaduras  
- [] Largo de las barras
+- [] Carga sobre elemento principal  
+- [] Espesores de elementos  
+- [] Largo de las barras
+- [] Espesores de soldaduras  
+- [] Largo de las barras
 
 
 
