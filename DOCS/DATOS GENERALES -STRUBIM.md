@@ -49,6 +49,7 @@
 - [ ] Largo de las barras
 - [ ] Von Mises Maxima 190 MPa
 - [ ] Aprovechamiento máximo 60%
+- [ ] Empotramiento en Cype 3D , 0.10 Articulado, 0.30 o mas Empotrado
 
 
 
