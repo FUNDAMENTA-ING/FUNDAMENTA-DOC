@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  <h1> DATOS GENERALES CYPE</h1>
+  <h1> DATOS GENERALES STRUBIM</h1>
   
 
   <sub>Author:
@@ -18,24 +18,35 @@
 
 ### DATOS GENERALES
 
-Usar archivos bases de cype segun corresponda ver josemek098f@gmail.com Cliente 
 
-### HORMIGON
-- PARA OBRAS CON HORMIGON IN SITU USAR H17 (o H13)
-- OBRAS EN CIUDADES SMT YB yb y Casas H21
-- EDIFICIOS Y HORMIGON ELEBARADO EN PLANTA H30 o mas
 
-### CARGAS
-- LAS CARGAS EN CYPE SIEMPRE LAS PONEMOS COMO PESO PROPIO!!!
+### ESPESOR DE PLACAS
+- 1/2" - 12.7mm
+- 5/8" - 16mm
+- 3/4 - 19mm
+
+
   
-### CARGAS DE CUBIERTA
-- Para cubiertas usar carga de 70kg/m2 o 0.07t/m2
-- Distribuir correas cada 0.80-1.00 de distancia empezando a 0.10 del borde
+### TORNILLOS
+- ASTM F3125 3/4"
+- A325 Type1
+- Separacion 1.5 diametro o 50mm
 
-### CARGAS DE MURO  
-- Se determinan como PesoespecificoxHmuroxEspesor (cargalineal)
+### PERFILES
+- W F36
+- Placas F26 y demas
 
-### PLANILLA VIGAS Y COLUMNAS PARA MUNICIPAL
+### SOLDADURA
+- E70XX
+- ESPESOR MAXIMO IGUAL A LA MENOR DIMENSION DE LOS ELEMENTOS A UNIR
 
- - xxxxxx_Planilla municipal_VIGAS_COLUMNAS CYPE
+### VERIFICAR
+
+ [] Carga sobre elemento principal  
+ [ ] Espesores de elementos  
+ [] Largo de las barras
+ [] Espesores de soldaduras  
+ [] Largo de las barras
+
+
 
