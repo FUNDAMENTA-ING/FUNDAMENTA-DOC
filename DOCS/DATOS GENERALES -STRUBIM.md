@@ -41,7 +41,7 @@
 - Espesores Tipo 6 8 10 12
 - ESPESOR MAXIMO IGUAL A LA MENOR DIMENSION DE LOS ELEMENTOS A UNIR
 
-### VERIFICAR
+### VERIFICAR EN MODELADO DE UNION
 
 - [ ] Carga sobre elemento principal  
 - [ ] Espesores de elementos  
@@ -50,6 +50,13 @@
 - [ ] Von Mises Maxima 190 MPa
 - [ ] Aprovechamiento máximo 60%
 - [ ] Empotramiento en Cype 3D , 0.10 Articulado, 0.30 o mas Empotrado
+- [ ] Simetria de los tornillos respecto a su eje.
+
+### VERIFICAR DOCUMENTACION DE UNION
+
+- [ ] Que no se crucen las cotas, que esten acotados los tornillos
+- [ ] Que esten las placas acotadas con nombre
+- [ ] Simetria de los tornillos respecto a su eje
 
 
 
