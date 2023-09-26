@@ -47,6 +47,8 @@
 - [ ] Largo de las barras
 - [ ] Espesores de soldaduras  
 - [ ] Largo de las barras
+- [ ] Von Mises Maxima 190 MPa
+- [ ] Aprovechamiento máximo 60%
 
 
 
