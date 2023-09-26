@@ -30,7 +30,7 @@
 ### TORNILLOS
 - ASTM F3125 3/4"
 - A325 Type1
-- Separacion 1.5 diametro o 50mm
+- Separacion minima 1.5 diametro o 50mm
 
 ### PERFILES
 - W F36
@@ -47,7 +47,6 @@
 - [ ] Espesores de elementos  
 - [ ] Largo de las barras
 - [ ] Espesores de soldaduras  
-- [ ] Largo de las barras
 - [ ] Von Mises Maxima 190 MPa
 - [ ] Aprovechamiento máximo 60%
 - [ ] Empotramiento en Cype 3D , 0.10 Articulado, 0.30 o mas Empotrado
