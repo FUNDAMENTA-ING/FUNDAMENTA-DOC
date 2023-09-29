@@ -49,6 +49,10 @@
   <img src="../IMG/esfcype3d.png" alt="LOSAS1" width="250" /> 
 </p>
 
+### COPIA DE SEGURIDAD SE GUARDA
+ - Cambiar el $ por la l 
+ - C:\CYPE Ingenieros\Proyectos\StruBIM Steel
+
 ### VERIFICAR EN MODELADO DE UNION
 
 - [ ] Carga sobre elemento principal  
