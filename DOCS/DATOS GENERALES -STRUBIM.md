@@ -70,6 +70,7 @@
 - [ ] Que no se crucen las cotas, que esten acotados los tornillos
 - [ ] Que esten las placas acotadas con nombre
 - [ ] Simetria de los tornillos respecto a su eje
+- [ ] Acotar agujeros inferiores y superiores en diagonales en x e y, ademas de el numero de agujeros (cambiar la palabra taladro por agujeros en la etiqueta ) mejor si es en todas las placas
 
 
 
