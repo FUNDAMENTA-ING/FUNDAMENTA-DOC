@@ -59,6 +59,7 @@
 - [ ] Aprovechamiento máximo 60%
 - [ ] Empotramiento en Cype 3D , 0.10 Articulado, 0.30 o mas Empotrado
 - [ ] Simetria de los tornillos respecto a su eje.
+- [ ] Verificar el esfuerzo maximo en Cype 3D
 
 ### VERIFICAR DOCUMENTACION DE UNION
 
