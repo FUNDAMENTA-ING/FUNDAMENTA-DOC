@@ -41,6 +41,14 @@
 - Espesores Tipo 6 8 10 12
 - ESPESOR MAXIMO IGUAL A LA MENOR DIMENSION DE LOS ELEMENTOS A UNIR
 
+### AGRUPAR UNIONES
+
+- Antes de agrupar uniones hay q ver q los esfuerzos en CYPE 3D sean los maximos en esa union respecto al resto esto es MUY IMPORTANTE, activar asi:
+
+<p align="center">
+  <img src="../IMG/esfcype3d.PNG" alt="LOSAS1" width="700" />
+</p>
+
 ### VERIFICAR EN MODELADO DE UNION
 
 - [ ] Carga sobre elemento principal  
