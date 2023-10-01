@@ -53,6 +53,20 @@
  - Cambiar el $ por la l 
  - C:\CYPE Ingenieros\Proyectos\StruBIM Steel
 
+### TIPS
+
+ - USAR SIEMPRE QUE SE QUIERA CREAR DIAGONALES O ELEMENTOS EN PLANOS INCLINADOS ! PLANOS DE TRABAJO ! ACTIVAR LA REJILLA PUEDE SER MUY UTIL
+ - Cuando definimos un plano de refencia se crean nuevos ejes basados en los puntos q se usaron para definir el plano estos ejes se toman como referencia para mover un objeto 
+<p align="center">
+  <img src="../IMG/esfcype3d.png" alt="LOSAS1" width="250" /> 
+</p>
+   
+ - CON SIMETRIA PODEMOS COPIAR EL ELEMENTO Y ESPEJARLO
+ - CON ROTAR PODEMOS GIRARLO RESPECTO A UN EJE
+ - CUANDO SELECCIONAMOS MOVER PODEMOS USAR EL MODO 3D O EL 2D ESTO ES SUPER UTIL !!!
+ - ALINEAR TAMBIEN ES SUPER UTIL PODEMOS ALINEAR CARAS DE ELEMENTOS CON CARAS DE OTROS ELEMENTOS EXISTENTES DE ESTE MODO CONSEGUIMOS PLANOS PARALELOS ENTRE LOS PLANOS DE LOS ELEMENTOS
+   
+
 ### VERIFICAR EN MODELADO DE UNION
 
 - [ ] Carga sobre elemento principal  
