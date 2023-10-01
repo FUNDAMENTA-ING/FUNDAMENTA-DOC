@@ -58,7 +58,7 @@
  - USAR SIEMPRE QUE SE QUIERA CREAR DIAGONALES O ELEMENTOS EN PLANOS INCLINADOS ! PLANOS DE TRABAJO ! ACTIVAR LA REJILLA PUEDE SER MUY UTIL
  - Cuando definimos un plano de refencia se crean nuevos ejes basados en los puntos q se usaron para definir el plano estos ejes se toman como referencia para mover un objeto 
 <p align="center">
-  <img src="../IMG/planodereferncia.png" alt="LOSAS1" width="250" /> 
+  <img src="../IMG/planodereferncia.PNG" alt="LOSAS1" width="250" /> 
 </p>
    
  - CON SIMETRIA PODEMOS COPIAR EL ELEMENTO Y ESPEJARLO
