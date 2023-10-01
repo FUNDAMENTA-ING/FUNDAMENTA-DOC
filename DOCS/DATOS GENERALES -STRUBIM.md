@@ -74,7 +74,7 @@
   <img src="../IMG/captura.PNG" alt="LOSAS1" width="250" /> 
 </p>
 
- - Con rotar despues de seleccionada la seccion rotamos respecto al eje de la seccion
+ - Con rotar despues de seleccionada la seccion rotamos respecto al eje de la seccion! EN LOS PERFILES EN L CONVIENE DEJAR EL PUNTO FIJO EN CENTRO HACER SIMETRIA Y AGREGAR UNA ANGULO DE ROTACION!! NO USAR PUNTOS FIJOS DISTINTOS DEL CENTRO PORQ SE GIRAN PARA CUALQUIER LADO ES MEJORQ EL PERFIL DEFINA UN RECTANGULO FICTICIO DONDE SE DESPLAZA RESPECTO A UN BARICENTRO SIEMPRE IGUAL QCAMBIAR ESE PUNTO
 
  - Con los puntos fijos solo movemos el perfil respecto al punto de insercion pero no procira el giro del a seccion sobre su baricentro
    
