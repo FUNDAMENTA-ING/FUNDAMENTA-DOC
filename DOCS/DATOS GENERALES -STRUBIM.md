@@ -55,6 +55,8 @@
 
 ### TIPS
 
+ - CON INVERTIR SENTIDO DEL EJE X PODEMOS DAR VUELTA EL PERFIL EN DOS CLICS LO SLECCIOAMOS y DAMOS CLICK DERECHO Y SE GIRA EN EL EJE X!!!!!!!!! SUPREMAMENTE UTIL!
+
  - USAR SIEMPRE QUE SE QUIERA CREAR DIAGONALES O ELEMENTOS EN PLANOS INCLINADOS ! PLANOS DE TRABAJO ! ACTIVAR LA REJILLA PUEDE SER MUY UTIL
  - Presionando shift mientras movemos podemos mover sobre los ejes del plano de referencia creado perpendicularmente
  - Cuando definimos un plano de refencia se crean nuevos ejes basados en los puntos q se usaron para definir el plano estos ejes se toman como referencia para mover un objeto 
