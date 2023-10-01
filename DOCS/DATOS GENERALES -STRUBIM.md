@@ -60,6 +60,15 @@
 <p align="center">
   <img src="../IMG/planodereferencia.PNG" alt="LOSAS1" width="1000" /> 
 </p>
+
+ - Con rotar giramos los elementos respecto al plano de referencia
+<p align="center">
+  <img src="../IMG/rotar.PNG" alt="LOSAS1" width="1000" /> 
+</p>
+
+ - Con rotar despues de seleccionada la seccion rotamos respecto al eje de la seccion
+
+ - Con los puntos fijos solo movemos el perfil respecto al punto de insercion pero no procira el giro del a seccion sobre su baricentro
    
  - CON SIMETRIA PODEMOS COPIAR EL ELEMENTO Y ESPEJARLO
  - CON ROTAR PODEMOS GIRARLO RESPECTO A UN EJE
