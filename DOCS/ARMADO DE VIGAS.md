@@ -4,6 +4,13 @@
 - Articular las vigas de encadenado (en el nivel de apeo), donde haya carga utilizar vigas comunes y armar
 - En el nivel de Apeos las columnas se unen con vigas que pueden estar inclinadas segun la longitud mas corta que las una
 - Donde pida mas q la armadura minima se puede colocar un bloque de apoyo de 60x60x60 y poner en el cype ua carga de .8 hacia arriba negativa-- EN REALIDAD ES LO Q PIDE PARA Q NO TE PIDA TANTO REFUERZO LA VIGA DE 0.8 a 1.25 MAXIMO--
+- En casas podemos usar bloques de por ejemplo 55x55x60 estos pueden resistir una fuerza equivalente a su area x tension admisible del suelo ej .55x.55x5=1.51t este es el valor maximo que puede soportar el bloque y lo ponemos como una carga hacia arriba con peso propio en cype en general ene el medio de las vigas
+de apeo
+- podemos poner bloques y encadenados en caso de q nos de muchos bloques o nos queden muy juntos--- articulamos en el modelo las vigas de apeo que no nos den con fi del 12 y ponemos bloques cada 1.70 con encadenados con fi del 8 y estribos fi 6 c/20
+
+  
+
+
 
 #### VIGAS DE H°A°
 - Usar barras longitudinales que sean multiplos de 120cm para llegar a 1200cm sin desperdicios
