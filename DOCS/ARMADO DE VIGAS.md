@@ -22,7 +22,9 @@ de apeo
 - Longitudes tipicas: 100 120 150 170 200 240 300 340 360 400 450 480 600 720 750 800 850 900 960 1000 1050 1080 1200
 
 - Cuantia minima superior e inferior 0,0026xAREA[cm] = As Minima a cubrir independientemente de lo q pida, DONDE EL DIAGRAMA DE MOMENTOS LO PIDA
-- fi8 arriba fi10 abajo ( 1 refuerzo)
+<span style="color:red">- fi8 arriba fi10 abajo ( 1 refuerzo) NO USAMOS FI DEL 8 ABAJO!!! MINIMO FI 10!!</span>
+
+- Empalmes los hacemos generosos que pasen los ejes de las columnas
 - para los refuerzos de las vigas MIRAR las envolventes y la posicion de los esfuerzos maximos!
 - Vigas chiquitas(20x30 v 20x20) no pueden terner fi16 pensar en agrandar las vigas o en otra solucion
 - Ref del diametro de la base o mas
@@ -35,6 +37,15 @@ de apeo
 - EN CASAS: la armadura de piel es de fi6 v fi8 c/15
 - Se pueden verificar en armado de vigas la flecha activa con el simbolo de la par de As maximo se permite L/500
 - En caso de vigas no estructurales puede usarse cuantia minima de 1.5XAs (As lo q pide el cype)
+
+- Flecha maxima L/500
+- Hasta 3 fi25 anda en una viga de 20cm de ancho
+- En barras tratar de usar 2x480+x1x240 o equivalente de manera de usar una barra de 12m
+- Ver posicion en la que se dan los maximos momentos en vigas
+- vigas muy simetricas armar simetricas ej una viga de 2 vanos q pida fi del 16 y fi 12 ponemos directamente fi del 16
+- armamos con cuantia minima usamos 1.5AsCype o cuantia minima
+- fi 20 usamos gancho del 30
+- fi menor q 20 usamos gancho de 20
   
 #### PLANILLA VIGAS METALICAS
 - Existe una planilla donde se puede determinar si verifican las vigas metalicas de las cubiertas
