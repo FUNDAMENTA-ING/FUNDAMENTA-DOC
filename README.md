@@ -135,6 +135,10 @@ Este es un resumen de documentacion en general sobre temas Fundamenta en formato
       <td align="left" valign="top" width="300px"><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/NOMENCLATURAS.md">Nomenclaturas</a></td>
       <td align="left" valign="top" width="500px">Nomenclaturas en general</td>
     </tr>
-    
+    <tr>
+      <td align="center" valign="top" width="30px">01</td>
+      <td align="left" valign="top" width="300px"><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/SKETCHUP.md">SKETCHUP</a></td>
+      <td align="left" valign="top" width="500px">IFC para comparar </td>
+    </tr>
    </tbody>
 </table>
