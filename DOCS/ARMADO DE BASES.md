@@ -15,3 +15,7 @@
 
 ### BASES COMBINADAS
  - Verificar las alturas maximas de las bases como  bases ailadas y como convinadas y elegir el mayor valor de las 3 tener encuenta q el tamaño del fuste influye en la altura de calculo
+
+### BASES COMBINADAS DE GALERIAS METALICAS Y /ELEMENTOS LIVIANOS SOMETIDOS A VIENTO
+
+ - VERIFICAR Q LA CARGA DE VIENTO SEA MENOR Q EL PESO TOTAL DEL A BASE POR UN FACTOR DE SEGURIDAD DE 1.5... TOMAR 90KG/M2 DE CARGA .. HACEMOS 90KG/M2XAREADEINFLUENCIA=1.5PESODELABASE
