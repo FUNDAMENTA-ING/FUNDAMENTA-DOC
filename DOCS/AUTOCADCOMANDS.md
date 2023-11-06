@@ -26,4 +26,10 @@ ncopy | dentro de un bloque puedo copiar elementos de otro bloque
 Poner todo como un solo archivo  
 External reference + Bind + insert (convino los archivos refernciados)  
 
+### AUTOCAD 3D 
+
+- Luego de sacar desde vista 3d y pasar a cypecad, vamos a vista 3d modelling, seleccionamos todo le damos a la flechita y ponemos create mesh,
+- Le damos a section plane y seleccionamos una cara, esto nos creara un plano
+- Le damos a la flechita de section y elejimos lo q mas nos guste ponemos escala y angulo y ya tenemos nuestro plano:D
+- 
 
