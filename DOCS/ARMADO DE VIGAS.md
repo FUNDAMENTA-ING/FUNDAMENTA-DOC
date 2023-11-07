@@ -52,6 +52,8 @@ de apeo
 - fi 20 usamos gancho del 30
 - fi menor q 20 usamos gancho de 20
 
+- Aunque pida estribos de 130 en vigas de 65 de alto en casas le ponemos 100cm nomas porq es mucho para una casa
+
 #### PLANILLA VIGAS METALICAS
 - Existe una planilla donde se puede determinar si verifican las vigas metalicas de las cubiertas
 - Se colocan como cargas puntales en el CYPE 
