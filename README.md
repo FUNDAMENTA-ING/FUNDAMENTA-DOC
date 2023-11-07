@@ -142,7 +142,7 @@ Este es un resumen de documentacion en general sobre temas Fundamenta en formato
     </tr>
         <tr>
       <td align="center" valign="top" width="30px">02</td>
-      <td align="left" valign="top" width="300px"><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/SKETCHUP.md">GitHub-Markdown</a></td>
+      <td align="left" valign="top" width="300px"><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/Markdown.md">GitHub-Markdown</a></td>
       <td align="left" valign="top" width="500px">Info de md </td>
     </tr>
    </tbody>
