@@ -23,13 +23,13 @@ de apeo
 - Cuantia minima superior e inferior 0,0026xAREA[cm] = As Minima a cubrir independientemente de lo q pida, DONDE EL DIAGRAMA DE MOMENTOS LO PIDA
 
 > [!IMPORTANT]  
->  fi8 arriba fi10 abajo ( 1 refuerzo) NO USAMOS FI DEL 8 ABAJO!!!  
->  MINIMO FI 10!!! NO USAMOS fi 8 de REFUERZO!!!!!!!!!
->  Hasta barra de fi16 minimo 1m de empalme, fi20 y fi del 25 minimo 1.20 y 1.30 m
+>  :warning: fi8 arriba fi10 abajo ( 1 refuerzo) NO USAMOS FI DEL 8 ABAJO!!!  
+>  :warning: MINIMO FI 10!!! NO USAMOS fi 8 de REFUERZO!!!!!!!!!
+>  :warning: Hasta barra de fi16 minimo 1m de empalme, fi20 y fi del 25 minimo 1.20 y 1.30 m
 
 
   
-- Empalmes los hacemos generosos que pasen los ejes de las columnas :warning:
+- Empalmes los hacemos generosos que pasen los ejes de las columnas 
 - para los refuerzos de las vigas MIRAR las envolventes y la posicion de los esfuerzos maximos!
 - Vigas chiquitas(20x30 v 20x20) no pueden terner fi16 pensar en agrandar las vigas o en otra solucion
 - Ref del diametro de la base o mas
