@@ -51,3 +51,17 @@ $\text{hello}$    #normal
 $\Large{hello}$$   #Bigger text size
 
 $$\LaTeX$$
+
+```json
+   // Code for coloring
+```
+```html
+   // Code for coloring
+```
+```js
+   // Code for coloring
+```
+```css
+   // Code for coloring
+```
+// etc.
