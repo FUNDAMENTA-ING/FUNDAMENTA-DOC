@@ -43,6 +43,11 @@ $\textit{hello}$  #italic
 
 $\text{hello}$    #normal
 
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
+
 $\Large{hello}$$   #Bigger text size
 
 $$\LaTeX$$
