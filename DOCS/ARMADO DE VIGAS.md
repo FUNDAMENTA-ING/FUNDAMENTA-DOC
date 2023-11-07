@@ -24,7 +24,7 @@ de apeo
 
 > [!IMPORTANT]  
 >  :warning: fi8 arriba fi10 abajo ( 1 refuerzo) NO USAMOS FI DEL 8 ABAJO!!!  
->  :warning: MINIMO FI 10!!! NO USAMOS fi 8 de REFUERZO!!!!!!!!!
+>  :warning: MINIMO FI 10!!! NO USAMOS fi 8 de REFUERZO!!!!!!!!!  
 >  :warning: Hasta barra de fi16 minimo 1m de empalme, fi20 y fi del 25 minimo 1.20 y 1.30 m
 
 
