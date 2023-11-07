@@ -23,9 +23,9 @@ de apeo
 - Cuantia minima superior e inferior 0,0026xAREA[cm] = As Minima a cubrir independientemente de lo q pida, DONDE EL DIAGRAMA DE MOMENTOS LO PIDA
 
 > [!IMPORTANT]  
-> fi8 arriba fi10 abajo ( 1 refuerzo) NO USAMOS FI DEL 8 ABAJO!!!  
-> MINIMO FI 10!!! NO USAMOS fi 8 de REFUERZO!!!!!!!!!
-> hasta barra de fi16 minimo 1m de empalme, fi20 y fi del 25 minimo 1.20 y 1.30 m
+> :warning: fi8 arriba fi10 abajo ( 1 refuerzo) NO USAMOS FI DEL 8 ABAJO!!!  
+> :warning: MINIMO FI 10!!! NO USAMOS fi 8 de REFUERZO!!!!!!!!!
+> :warning: Hasta barra de fi16 minimo 1m de empalme, fi20 y fi del 25 minimo 1.20 y 1.30 m
 
 
   
