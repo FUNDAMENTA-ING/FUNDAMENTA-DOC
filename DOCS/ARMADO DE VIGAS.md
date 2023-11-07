@@ -22,7 +22,7 @@ de apeo
 - Longitudes tipicas: 100 120 150 170 200 240 300 340 360 400 450 480 600 720 750 800 850 900 960 1000 1050 1080 1200
 - Cuantia minima superior e inferior 0,0026xAREA[cm] = As Minima a cubrir independientemente de lo q pida, DONDE EL DIAGRAMA DE MOMENTOS LO PIDA
 
-> [!ATENCION]  
+> [!WARNING]  
 > fi8 arriba fi10 abajo ( 1 refuerzo) NO USAMOS FI DEL 8 ABAJO!!! MINIMO FI 10!!! NO USAMOS fi 8 de REFUERZO!!!!!!!!!
 
   
