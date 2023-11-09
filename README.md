@@ -29,7 +29,7 @@ Este es un resumen de documentacion en general sobre temas Fundamenta en formato
       </tbody>
 </table>
 
-### **Armado de elementos estructurales CYPECAD**  
+### **Armado de elementos estructurales CYPECAD y Planillas**  
   <table >
   <tbody >
     <tr>
@@ -54,13 +54,13 @@ Este es un resumen de documentacion en general sobre temas Fundamenta en formato
     </tr>
     <tr>
       <td align="center" valign="top" >05</td>
-      <td align="left" valign="top" ><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=kentcdodds" title="Documentation">-</a></td>
-      <td align="left" valign="top" >-</td>
+      <td align="left" valign="top" ><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=kentcdodds" title="Documentation">Planillas Municipales</a></td>
+      <td align="left" valign="top" >Guia para hacer planillas municipales</td>
     </tr>
     <tr>
       <td align="center" valign="top" >06</td>
-      <td align="left" valign="top" ><a href="https://github.com/josemek098dev/001-Docs-web-development/blob/master/02-Fronted/01-JavaScript.md" title="Documentation">-</a></td>
-      <td align="left" valign="top" >-</td>
+      <td align="left" valign="top" ><a href="https://github.com/josemek098dev/001-Docs-web-development/blob/master/02-Fronted/01-JavaScript.md" title="Documentation">Computos Ejecutivos</a></td>
+      <td align="left" valign="top" >Guia para hacer computos</td>
     </tr>
     <tr>
       <td align="center" valign="top" >07</td>
