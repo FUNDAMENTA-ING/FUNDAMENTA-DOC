@@ -52,13 +52,18 @@ Este es un resumen de documentacion en general sobre temas Fundamenta en formato
       <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/ARMADO%20DE%20VIGAS.md" title="Documentation">Armado de Vigas</a></td>
       <td align="left" valign="top" >-</td>
     </tr>
-    <tr>
+        <tr>
       <td align="center" valign="top" >05</td>
+      <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/PLANILLASMUNICIPALES.md" title="Documentation">Armado de tabiques</a></td>
+      <td align="left" valign="top" >Guia para armar tabiques</td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" >06</td>
       <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/PLANILLASMUNICIPALES.md" title="Documentation">Planillas Municipales</a></td>
       <td align="left" valign="top" >Guia para hacer planillas municipales</td>
     </tr>
     <tr>
-      <td align="center" valign="top" >06</td>
+      <td align="center" valign="top" >07</td>
       <td align="left" valign="top" ><a href="https://github.com/josemek098dev/001-Docs-web-development/blob/master/02-Fronted/01-JavaScript.md" title="Documentation">Computos Ejecutivos</a></td>
       <td align="left" valign="top" >Guia para hacer computos</td>
     </tr>
