@@ -54,7 +54,7 @@ Este es un resumen de documentacion en general sobre temas Fundamenta en formato
     </tr>
         <tr>
       <td align="center" valign="top" >05</td>
-      <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/PLANILLASMUNICIPALES.md" title="Documentation">Armado de tabiques</a></td>
+      <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/PLANILLASMUNICIPALES.md" title="Documentation">Armado de Tabiques</a></td>
       <td align="left" valign="top" >Guia para armar Tabiques</td>
     </tr>
     <tr>
