@@ -54,7 +54,7 @@ Este es un resumen de documentacion en general sobre temas Fundamenta en formato
     </tr>
         <tr>
       <td align="center" valign="top" >05</td>
-      <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/PLANILLASMUNICIPALES.md" title="Documentation">Armado de Tabiques</a></td>
+      <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/ARMADO%20DE%20TABIQUES.md" title="Documentation">Armado de Tabiques</a></td>
       <td align="left" valign="top" >Guia para armar Tabiques</td>
     </tr>
     <tr>
@@ -64,7 +64,7 @@ Este es un resumen de documentacion en general sobre temas Fundamenta en formato
     </tr>
     <tr>
       <td align="center" valign="top" >07</td>
-      <td align="left" valign="top" ><a href="https://github.com/josemek098dev/001-Docs-web-development/blob/master/02-Fronted/01-JavaScript.md" title="Documentation">Computos Ejecutivos</a></td>
+      <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/COMPUTO%20EJECUTIVO.md" title="Documentation">Computos Ejecutivos</a></td>
       <td align="left" valign="top" >Guia para hacer computos</td>
     </tr>
     <tr>
