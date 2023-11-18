@@ -52,7 +52,7 @@
 17. A veces no habra nada que hacerle y  nose podra poner la longitud y ancho ideal que queramos
     pp
     
-#### Armado de mini losas con poca solicitacion
+#### ARMADO DE LOSAS PEQUEÑAS
  - Podemos no ponerle armado superior
  - Podemos usar Fi6c/15
  - Podemos usar mallas Q188   
