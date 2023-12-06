@@ -58,5 +58,8 @@
 #### ARMADO DE LOSAS PEQUEÑAS
  - Podemos no ponerle armado superior
  - Podemos usar Fi6c/15
- - Podemos usar mallas Q188   
+ - Podemos usar mallas Q188
+
+#### ARMADO DE LOSAS DE VIGUETAS
+ - TRATAMOS Q LAS LONGITUDES Q FIGURAN EN LA PLANILLA SEAN MULTIPLOS DE 0.20 para que puedan comprar los cortes
     
