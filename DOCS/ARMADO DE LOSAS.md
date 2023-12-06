@@ -18,7 +18,10 @@
 1. Vamos a Isovalores
 2. Ver - Hipotesis y Plantas
 3. Esfuerzos de dimensionamiento - Momento en X/Y, Cuantia Inferior/Superio - Podemos cambiar valores maximos y minimos para pueda diferenciase mejo donde van los refuexos
-4. Usar Medidas de barra tipicas donde sea posible, colocar  empalmes intercalados donde haga falta, preferentemente deja una barra de 12m y cortar la otra barra, no usar dos  barras de 7m para llegar a 14m 
+4. Usar Medidas de barra tipicas donde sea posible, colocar  empalmes intercalados donde haga falta, preferentemente deja una barra de 12m y cortar la otra barra, no usar dos  barras de 7m para llegar a 14m
+> [!IMPORTANT]  
+> VERIFICAR LA DIRECCION PRINCIPAL DE ARMADO Y EL COMPORTAMIENTO DE LAS LOSAS VIENDO LAS DEFORMADAS AVECES UNA LOSA MUY FINA PUEDE PEDIR ARMADO EN LA LONGITUD MAS LARGA COMO SI FUERA UNA VIGA.
+   
 
 ### CRITERIOS DE ARMADO BASE
 1. Ponemos un armado base segun lo que pide el cype o minimo: 2*REDONDEAR.MAS(ESPESOR DE LA LOSA - "2.5" RECUBRIMIENTO )--- Ej: Losa de 15cm tiene 13cm de altura efectiva, la separacion minima segun espeso seria 26cm 
