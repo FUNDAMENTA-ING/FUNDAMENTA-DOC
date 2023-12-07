@@ -2,8 +2,8 @@
 ### ARMADO DE TABIQUES
 
 - Nos fijamos en las planillas de armado de tabiques: ponemos
--  1- espesor.
--  2- separacion: la planilla nos dara por cuantia minima la barra q se necesita
+  1- espesor.
+  2- separacion: la planilla nos dara por cuantia minima la barra q se necesita
 
 
 
