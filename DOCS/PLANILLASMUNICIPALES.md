@@ -8,9 +8,12 @@
  - Verificar q digan el tipo de hormigon H13 H17 o H21 segun corresponda
  - verificar q no haya ningun encadenado
 
+#### PLANILLA VIGAS DE HORMIGON ARMADO
+ - Listado de esfuerzos y armado de vigas, tiladar todo, aceptar
+ - Verificar el tipo de hormigon
+ - verificar q el ancho sea el correspondiente
+
+
 #### PLANILLA ELEMENTOS METALICOS
  - Verificar q se imprima el "C" tambien la flechha maxima admisible
 
-#### PLANILLA VIGAS DE HORMIGON ARMADO
- - Verificar el tipo de hormigon
- - verificar q el ancho sea el correspondiente
