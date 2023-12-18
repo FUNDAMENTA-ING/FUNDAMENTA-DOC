@@ -8,6 +8,9 @@
 de apeo
 - podemos poner bloques y encadenados en caso de q nos de muchos bloques o nos queden muy juntos--- articulamos en el modelo las vigas de apeo que no nos den con fi del 12 y ponemos bloques cada 1.70 con encadenados con fi del 8 y estribos fi 6 c/20
 
+> [!IMPORTANT]  
+>  :warning: No usamos Fi16 en apeos
+
   
 
 
@@ -39,7 +42,7 @@ de apeo
 - Ganchos: abajo +15 | arriba el maximo posible (+20)
 - Saltos de armadura para refuerzos maximo 2 saltos
 - Vigas simetricas aprox hacer armaduras simetricas aprox 
-- EN CASAS: la armadura de piel es de fi6 v fi8 c/15
+- EN CASAS: la armadura de piel es de fi6 v fi8 c/15, vigas de mas de 60cm A° piel Fi8 preferentemente
 - Se pueden verificar en armado de vigas la flecha activa con el simbolo de la par de As maximo se permite L/500
 - En caso de vigas no estructurales puede usarse cuantia minima de 1.5XAs (As lo q pide el cype)
 
