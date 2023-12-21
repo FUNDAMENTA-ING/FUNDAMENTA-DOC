@@ -1,0 +1,28 @@
+(defun C:ROUND( / ss n i oldDimzin e d v S)
+  (if (not n0) (setq n0 2))
+  (setq
+    ss (ssget '((0 . "TEXT,MTEXT")))
+    n (getint (strcat "\nNumber of decimal places <" (itoa n0) ">:"))
+    i 0
+    oldDimzin (getvar "dimzin")
+  )
+  (if n (setq n0 n) (setq n n0))
+  (setvar "dimzin" 8)
+  (repeat (sslength ss)
+    (setq e (ssname ss i))
+    (if (= (cdr (assoc 0 (entget e))) "MTEXT") (progn
+      (command "explode" e "")
+      (setq e (entlast))
+    ))
+    (setq
+      d (entget e)
+      v (atof (cdr (assoc 1 d)))
+      S (rtos v 2 n)
+      d (subst (cons 1 S) (assoc 1 d) d)
+    )
+    (entmod d)
+    (setq i (1+ i))
+  )
+  (setvar "dimzin" oldDimzin)
+  (princ)
+)
