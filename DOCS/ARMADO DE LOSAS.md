@@ -72,4 +72,6 @@
  - C 4.8 - 5.4
  - D 5.6 - 6.2
  - E 6.4 - 7.2
+
+ - Segun educype recomienda poner coeficiente de empotramiento 0 en todos los bordes de las losas de viguetas
     
