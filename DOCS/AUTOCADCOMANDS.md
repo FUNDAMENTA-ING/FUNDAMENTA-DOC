@@ -22,6 +22,11 @@
       <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/AUTOCADCOMANDS.md">NUMBINC</a></td>
       <td align="left" valign="top" >Numera automaticamente</td>
     </tr>
+            <tr>
+      <td align="center" valign="top" >03</td>
+      <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/AUTOCADCOMANDS.md">INSERTC</a></td>
+      <td align="left" valign="top" >Numera automaticamente con seleccion multiple</td>
+    </tr>
       </tbody>
 </table>
 
