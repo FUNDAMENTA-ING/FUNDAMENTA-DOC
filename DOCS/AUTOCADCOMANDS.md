@@ -2,6 +2,11 @@
 
 <table >
   <tbody>
+        <tr>
+      <td align="center" valign="top" width="30px">01</td>
+      <td align="left" valign="top" width="300px"><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/DATOS%20GENERALES%20-%20CYPE.md">MEASUREMENTS</a></td>
+      <td align="left" valign="top" width="500px">Suma longitudes, areas etc.</td>
+    </tr>
     <tr>
       <td align="center" valign="top" width="30px">01</td>
       <td align="left" valign="top" width="300px"><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/DATOS%20GENERALES%20-%20CYPE.md">ROUD</a></td>
