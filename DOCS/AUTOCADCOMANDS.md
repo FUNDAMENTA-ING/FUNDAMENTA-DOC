@@ -28,6 +28,8 @@ attsync | sincronizar y editar util en los rotulos (editar bloques en editor de 
 
 ncopy | dentro de un bloque puedo copiar elementos de otro bloque
 
+attdef | creo un texto con un valor de un atributo
+
 ### CHINOS 
 
   esc 0.001 | escalar lo q manda saxum con esta escala
