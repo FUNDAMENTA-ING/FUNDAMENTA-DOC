@@ -17,6 +17,11 @@
       <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/AUTOCADCOMANDS.md">TRUSS</a></td>
       <td align="left" valign="top" >Dibuja cercha</td>
     </tr>
+        <tr>
+      <td align="center" valign="top" >03</td>
+      <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/AUTOCADCOMANDS.md">NUMBINC</a></td>
+      <td align="left" valign="top" >Numera automaticamente</td>
+    </tr>
       </tbody>
 </table>
 
