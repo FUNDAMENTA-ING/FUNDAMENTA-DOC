@@ -31,7 +31,7 @@
 </table>
   
 
-setq insertc:AttNo 2 este codigo define el segundo atributo como valor a numerar
+*setq insertc:AttNo 2 este codigo define el segundo atributo como valor a numerar
 
 
 ### COMANDOS
