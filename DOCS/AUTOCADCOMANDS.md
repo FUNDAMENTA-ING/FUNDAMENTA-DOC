@@ -25,12 +25,13 @@
             <tr>
       <td align="center" valign="top" >03</td>
       <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/AUTOCADCOMANDS.md">INSERTC</a></td>
-      <td align="left" valign="top" >Numera automaticamente con seleccion multiple</td>
+      <td align="left" valign="top" >Numera automaticamente con seleccion multiple *</td>
     </tr>
       </tbody>
 </table>
 
 
+*setq insertc:AttNo 2 este codigo define el segundo atributo como valor a numerar
 ### COMANDOS
 
 XL + h  | trazar una linea horizontal  
