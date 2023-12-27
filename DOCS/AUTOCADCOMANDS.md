@@ -48,6 +48,8 @@ ncopy | dentro de un bloque puedo copiar elementos de otro bloque
 
 attdef | creo un texto con un valor de un atributo
 
+dimedit | edito una cota de anotate pouedo restaurarla a home
+
 ### CHINOS 
 
   esc 0.001 | escalar lo q manda saxum con esta escala
