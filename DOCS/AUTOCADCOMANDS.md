@@ -18,14 +18,19 @@
       <td align="left" valign="top" >Dibuja cercha</td>
     </tr>
         <tr>
-      <td align="center" valign="top" >03</td>
+      <td align="center" valign="top" >04</td>
       <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/AUTOCADCOMANDS.md">NUMBINC</a></td>
       <td align="left" valign="top" >Numera automaticamente</td>
     </tr>
             <tr>
-      <td align="center" valign="top" >03</td>
+      <td align="center" valign="top" >05</td>
       <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DEV/AUOTCADLISP/InsertC.VLX">INSERTC</a></td>
       <td align="left" valign="top" >Numera automaticamente con seleccion multiple *</td>
+    </tr>
+                <tr>
+      <td align="center" valign="top" >06</td>
+      <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DEV/AUOTCADLISP/InsertC.VLX">duplayout</a></td>
+      <td align="left" valign="top" >Crea hojas automaticamente *</td>
     </tr>
       </tbody>
 </table>
