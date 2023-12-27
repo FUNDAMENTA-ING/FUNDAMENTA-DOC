@@ -30,7 +30,7 @@
                 <tr>
       <td align="center" valign="top" >06</td>
       <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DEV/AUOTCADLISP/lay.lsp">DUPLAYOUT</a></td>
-      <td align="left" valign="top" >Crea hojas automaticamente </td>
+      <td align="left" valign="top" >Crea multiples copias de hojas automaticamente </td>
     </tr>
                     <tr>
       <td align="center" valign="top" >07</td>
