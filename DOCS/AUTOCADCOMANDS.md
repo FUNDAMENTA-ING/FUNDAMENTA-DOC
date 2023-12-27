@@ -55,8 +55,9 @@ dimedit | edito una cota de anotate pouedo restaurarla a home
   esc 0.001 | escalar lo q manda saxum con esta escala
 
 ### ESPACIO PAPEL
+> [!NOTE]  
+> Hold the CTRL button down after you select one or more, and drag/drop. The more you select, the more you copy. Repeat until you get 20-30 and so on: there is no "copy this layout 20 times" option.
 
-Hold the CTRL button down after you select one or more, and drag/drop. The more you select, the more you copy. Repeat until you get 20-30 and so on: there is no "copy this layout 20 times" option.
 
 ### REPLANTEO
 
