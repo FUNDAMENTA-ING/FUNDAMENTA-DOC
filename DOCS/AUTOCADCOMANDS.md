@@ -29,7 +29,7 @@
     </tr>
                 <tr>
       <td align="center" valign="top" >06</td>
-      <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DEV/AUOTCADLISP/InsertC.VLX">duplayout</a></td>
+      <td align="left" valign="top" ><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DEV/AUOTCADLISP/InsertC.VLX">DUPLAYOUT</a></td>
       <td align="left" valign="top" >Crea hojas automaticamente *</td>
     </tr>
       </tbody>
