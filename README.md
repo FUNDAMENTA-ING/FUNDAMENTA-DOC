@@ -69,7 +69,7 @@ Este es un resumen de documentacion en general sobre temas Fundamenta en formato
     </tr>
     <tr>
       <td align="center" valign="top" >07</td>
-      <td align="left" valign="top" ><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=kentcdodds" title="Documentation">-</a></td>
+      <td align="left" valign="top" ><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=kentcdodds" title="Documentation">Cubiertas metalicas</a></td>
       <td align="left" valign="top" >-</td>
     </tr>
     <tr>
