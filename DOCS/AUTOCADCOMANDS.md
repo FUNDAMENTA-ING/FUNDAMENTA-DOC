@@ -43,13 +43,13 @@
 
 *(setq insertc:AttNo 2) este codigo define el segundo atributo como valor a numerar (OJO escribir entre parentesis el comando si o si !!!! )
 
-Add to the Startup  
-Run the APPLOAD (Command).  
-Under Startup Suite, click the Contents button.  
-Click the Add button.  
-Browse to the location of the LISP file, select it, then click the Open button.  
-Once all of the LISP routines have been added to the Startup Suite, click the Close button.  
-Click Close again to close the Load/Unload Applications dialog.  
+Load with the CUI  
+Run the CUI (Command).  
+Select the 'acad(lt).cuix'(or a custom partial .cuix).  
+Select LISP files and Right-Mouse Click.  
+Select Load LISP from the context menu.  
+Browse to the location of the LISP to add and select the file.  
+Click Apply and Close to exit the CUI editor.  
  
 
 ### COMANDOS
