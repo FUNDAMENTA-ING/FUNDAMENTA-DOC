@@ -43,8 +43,17 @@
 
 *(setq insertc:AttNo 2) este codigo define el segundo atributo como valor a numerar (OJO escribir entre parentesis el comando si o si !!!! )
 
+Add to the Startup
+Run the APPLOAD (Command).
+Under Startup Suite, click the Contents button.
+Click the Add button.
+Browse to the location of the LISP file, select it, then click the Open button.
+Once all of the LISP routines have been added to the Startup Suite, click the Close button.
+Click Close again to close the Load/Unload Applications dialog.
+
 
 ### COMANDOS
+
 
 XL + h  | trazar una linea horizontal  
 insert | puedo insertar un bloque dinamico  
