@@ -8,5 +8,6 @@
 
 ### COMANDOS
 
-Projects objects to profile view | seleccionamos el perfil luego el punto y enter - luego de esto el punto aparece en nuestro perfil
-Edit graph propieties | editamos un perfil y seleccionamos q cosas queremos q aparezcan es util cuando tomamos puntos de mas sinquerer y ls querermos borrar cambiamos a auto y a la otra opcion para q se refresque luego de eliminar lo q no era
+Projects objects to profile view | seleccionamos el perfil luego el punto y enter - luego de esto el punto aparece en nuestro perfil  
+Edit graph propieties | editamos un perfil y seleccionamos q cosas queremos q aparezcan es util cuando tomamos puntos de mas sinquerer y ls querermos borrar cambiamos a auto y a la otra opcion para q se refresque luego de eliminar lo q no era  
+Click Output tab | Export panel | Export Civil 3D Drawing
