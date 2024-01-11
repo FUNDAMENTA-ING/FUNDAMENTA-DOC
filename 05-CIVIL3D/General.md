@@ -13,3 +13,6 @@
 eliminar lo q no era  
 - Click Output tab | Export panel | Export Civil 3D Drawing
 - _AeccCreateAlignmentEntities| Crea un alignament a partir de una polilinea  
+
+### EDITAR SUPERFICIE
+Click derecho en la superficie seleccionada | edit surface style | style seleccionamos triangles y podremos borrar parte de la superficie con detelete line
