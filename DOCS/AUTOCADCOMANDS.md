@@ -50,7 +50,12 @@ Select LISP files and Right-Mouse Click.
 Select Load LISP from the context menu.  
 Browse to the location of the LISP to add and select the file.  
 Click Apply and Close to exit the CUI editor.  
- 
+
+### COMANDOS
+
+Configuraciones
+
+DSettings | en el segundo cuadrito de arrastrar la linea| presionamos en la ultima opcion  y desltidamos todo menos la que queremos ccreo q es la segunda 
 
 ### COMANDOS
 
