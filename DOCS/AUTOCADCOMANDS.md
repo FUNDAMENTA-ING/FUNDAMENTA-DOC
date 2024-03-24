@@ -51,7 +51,16 @@ Select Load LISP from the context menu.
 Browse to the location of the LISP to add and select the file.  
 Click Apply and Close to exit the CUI editor.  
 
-### COMANDOS
+### ACTIVAR AUTOCAD 
+
+C:\Windows\System32\drivers\etc
+
+
+127.0.0.1 genuine-software.autodesk.com 
+127.0.0.1 genuine-software1.autodesk.com 
+127.0.0.1 genuine-software2.autodesk.com
+
+### CONFIGURACIONES
 
 Configuraciones
 
