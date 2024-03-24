@@ -56,9 +56,9 @@ Click Apply and Close to exit the CUI editor.
 C:\Windows\System32\drivers\etc
 
 
-127.0.0.1 genuine-software.autodesk.com 
-127.0.0.1 genuine-software1.autodesk.com 
-127.0.0.1 genuine-software2.autodesk.com
+127.0.0.1 genuine-software.autodesk.com  
+127.0.0.1 genuine-software1.autodesk.com  
+127.0.0.1 genuine-software2.autodesk.com  
 
 ### CONFIGURACIONES
 
