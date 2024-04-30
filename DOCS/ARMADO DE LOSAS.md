@@ -23,6 +23,8 @@
   <img src="../IMG/LOSAS/LOSA-CONSIDERACION1.png" alt="LOSASCONS1" width="700" />
 </p>
 
+En POS4 se admitio el doblez porque se apoya en tabiques mientras que en POS2 se prefirio separar las barras
+
 ### BASICO
 1. Vamos a Isovalores
 2. Ver - Hipotesis y Plantas
