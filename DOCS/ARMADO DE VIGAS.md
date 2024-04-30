@@ -1,5 +1,13 @@
 ## VIGAS
 
+#### VIGAS DE LUCES GRANDES
+
+> [!IMPORTANT]  
+> TENER CUIDADO CON VIGAS DE LUCES GRANDES SIEMPRE VERIFICAR LA FLECHA SE ADMITE L/500 COMO UNA FLECHA/DEFORMACION ACEPTABLE, PERO DEBERA INCLUIRSE UNA CONTRAFLECHA DE AL MENOS EL DOBLE DE LA FLECHA ACTIVA INDICADA EN CYPE2016
+<p align="center">
+  <img src="../IMG/VIGAS/VIGA-CONSIDERACION1.png" alt="LOSASCONS1" width="700" />
+</p>
+
 #### VIGAS APEO
 - Articular las vigas de encadenado (en el nivel de apeo), donde haya carga utilizar vigas comunes y armar
 - En el nivel de Apeos las columnas se unen con vigas que pueden estar inclinadas segun la longitud mas corta que las una
