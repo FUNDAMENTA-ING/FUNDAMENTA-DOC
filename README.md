@@ -29,7 +29,7 @@ Este es un resumen de documentacion en general sobre temas Fundamenta en formato
       </tbody>
 </table>
 
-### **Verificacion y refuerzo de Armado de elementos estructurales en general con CYPECAD** 
+### **Verificacion/refuerzo de armado de elementos estructurales prexistentes en general con CYPECAD** 
 
 <table >
   <tbody>
