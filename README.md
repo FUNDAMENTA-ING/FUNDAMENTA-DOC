@@ -29,13 +29,13 @@ Este es un resumen de documentacion en general sobre temas Fundamenta en formato
       </tbody>
 </table>
 
-### **Verificación y refuerzo de estructuras existentes en general mediante CYPECAD** 
+### **Refuerzo de estructuras preexistentes en CYPECAD** 
 
 <table >
   <tbody>
     <tr>
       <td align="center" valign="top" width="30px">01</td>
-      <td align="left" valign="top" width="300px"><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/DATOS%20GENERALES%20-%20CYPE.md">Refuerzos en Vigas y Columnas</a></td>
+      <td align="left" valign="top" width="300px"><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/REFUERZOS%20DE%20ESTRUCTURAS%20PREEXISTENTES">Refuerzos en Vigas y Columnas</a></td>
       <td align="left" valign="top" width="500px">Conceptos basicos, cargas, dimensiones tipo</td>
     </tr>
     <tr>
