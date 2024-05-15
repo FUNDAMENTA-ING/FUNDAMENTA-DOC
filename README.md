@@ -29,7 +29,7 @@ Este es un resumen de documentacion en general sobre temas Fundamenta en formato
       </tbody>
 </table>
 
-### **Verificación y refuerzo de la estructura existente en general mediante CYPECAD** 
+### **Verificación y refuerzo de estructuras existentes en general mediante CYPECAD** 
 
 <table >
   <tbody>
