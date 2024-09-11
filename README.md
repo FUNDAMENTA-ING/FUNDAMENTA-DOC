@@ -180,13 +180,13 @@ Este es un resumen de documentacion en general sobre temas Fundamenta en formato
       <td align="left" valign="top" width="500px">Suelos en general, excavación submuración, estabilidad de taludes </td>
     </tr>
       <td align="center" valign="top" width="30px">02</td>
-      <td align="left" valign="top" width="300px"><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/PDF/CATALOGOS-FDM.pdf">Proceso Geometria Vial</a></td>
-      <td align="left" valign="top" width="500px">Proceso ejecutivo de Documentacion Vial </td>
+      <td align="left" valign="top" width="300px"><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/PDF/CATALOGOS-FDM.pdf">Proceso Geometría Vial</a></td>
+      <td align="left" valign="top" width="500px">Proceso ejecutivo de documentación vial </td>
     </tr>
     </tr>
       <td align="center" valign="top" width="30px">02</td>
-      <td align="left" valign="top" width="300px"><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/PDF/CATALOGOS-FDM.pdf">Proceso Obras Hidraulicas</a></td>
-      <td align="left" valign="top" width="500px">Proceso ejecutivo de documentacion hidraulica </td>
+      <td align="left" valign="top" width="300px"><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/PDF/CATALOGOS-FDM.pdf">Proceso Obras Hidráulicas</a></td>
+      <td align="left" valign="top" width="500px">Proceso ejecutivo de documentación hidráulica </td>
     </tr>
    </tbody>
 </table>
