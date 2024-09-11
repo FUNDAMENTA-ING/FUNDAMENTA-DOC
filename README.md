@@ -176,17 +176,17 @@ Este es un resumen de documentacion en general sobre temas Fundamenta en formato
   <tbody>
     <tr>
       <td align="center" valign="top" width="30px">01</td>
-      <td align="left" valign="top" width="300px"><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/PDF/CATALOGOS-FDM.pdf">Proceso Suelos</a></td>
+      <td align="left" valign="top" width="300px"><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/PDF/CATALOGOS-FDM.pdf">Proceso suelos</a></td>
       <td align="left" valign="top" width="500px">Suelos en general, excavación submuración, estabilidad de taludes </td>
     </tr>
       <td align="center" valign="top" width="30px">02</td>
-      <td align="left" valign="top" width="300px"><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/PDF/CATALOGOS-FDM.pdf">Proceso Geometria Vial</a></td>
-      <td align="left" valign="top" width="500px">Proceso Ejecutivo de documentacion Vial </td>
+      <td align="left" valign="top" width="300px"><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/PDF/CATALOGOS-FDM.pdf">Proceso geometria vial</a></td>
+      <td align="left" valign="top" width="500px">Proceso ejecutivo de documentacion vial </td>
     </tr>
     </tr>
       <td align="center" valign="top" width="30px">02</td>
-      <td align="left" valign="top" width="300px"><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/PDF/CATALOGOS-FDM.pdf">Proceso obras hidraulicas viales y en general</a></td>
-      <td align="left" valign="top" width="500px">Proceso Ejecutivo de documentacion hidraulica </td>
+      <td align="left" valign="top" width="300px"><a href="https://github.com/FUNDAMENTA-ING/FUNDAMENTA-DOC/blob/main/DOCS/PDF/CATALOGOS-FDM.pdf">Proceso obras hidraulicas</a></td>
+      <td align="left" valign="top" width="500px">Proceso ejecutivo de documentacion hidraulica </td>
     </tr>
    </tbody>
 </table>
