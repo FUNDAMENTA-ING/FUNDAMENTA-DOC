@@ -1,5 +1,7 @@
 ### PLANILLAS MUNICIPALES
 
+> [!IMPORTANT]  
+>  15/2/2025 Ramiro Manzanares: En los proyectos municipales por reglamento NO se pueden usar barras longitudinales inferiores ni superiores fi 8, entonces, más allá de que en los ejecutivos pongamos perchas del 8, en las planillas municipales tenemos que mentir y poner fi 10 : no es difícil el procedimiento: armamos todo normalmente en el ejecutivo... luego sacamos el armado a planillas... luego seleccionamos la columna de armaduras longitudinales y "Buscar" "Reemplazar": 8 /// 10
 
 
 #### PLANILLA COLUMNAS
