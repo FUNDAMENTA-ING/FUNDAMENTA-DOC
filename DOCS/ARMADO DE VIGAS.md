@@ -112,3 +112,9 @@ Creamos una planilla para cada cercha.
 En cerchas de cierre no importa tanto el angulo, tratamos de que sean medidas estandares para todo el tramo donde la cercha de cierre coincida con correas ponemos un montante en correspondencia con la correa o soportes
 
 
+> [!IMPORTANT]  
+>  :warning: OJO Q EN UNA CERCHA TRIANGULAR O DE ALTURA VARIABLE LA ALTURA TOTAL O EL BRAZO DE PALACA EL BRAZO DE PALANCA ES EL PROMEDIO DE LA ALTURA VARIABLE
+
+>  :warning: EL ANGULO IDEAL ES DE 63°
+
+
