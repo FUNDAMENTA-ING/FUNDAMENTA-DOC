@@ -27,7 +27,7 @@ de apeo
 - Usar barras longitudinales que sean multiplos de 120cm para llegar a 1200cm sin desperdicios
 - Usar numeros redondos 
 - Longitud de empalme de 60 veces el diametro
-- Densificar en L/5 o 2H segun el menor de estos valores desde las columnas:  (HASTA UN MINIMO DE 80CM)  
+- Densificar en L/5 o 2H segun el menor de estos valores desde las columnas:  (HASTA UN MINIMO DE 80CM)  (no siempre ejempo vigas de 30cm de alto si 60cm, vigas de 45 90, una viga de 60 120)
    Si la 150<L<250 usamos estribos cada 15  
    Si la L<150 usamos estribos cada 10. fi6c/20 Tramo, fi6c/10 Apoyo.  
 - Longitudes tipicas: 100 120 150 170 200 240 300 340 360 400 450 480 600 720 750 800 850 900 960 1000 1050 1080 1200
